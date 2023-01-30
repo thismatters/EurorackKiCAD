@@ -13,7 +13,6 @@ Take note that Tayda also sells a line of Tayda branded potentiometers which _do
 
 Product availability is not guaranteed by this table; if you find an error here the author would accept a Pull Request about it.
 
-|------------|-----------------|-----------------|-----------------|-----------------|
 | Resistance | LOG -- Single   | LOG -- Double   | LOG -- Single   | LOG -- Double   |
 |------------|-----------------|-----------------|-----------------|-----------------|
 | 500        | N/A             | N/A             | A-3919          | N/A             |
@@ -29,7 +28,7 @@ Product availability is not guaranteed by this table; if you find an error here 
 | 250K       | A-2394          | N/A             | A-3203          | N/A             |
 | 500K       | A-2424          | A-1296          | A-2957*         | A-1293          |
 | 1M         | A-2425          | N/A             | A-2405          | A-1294          |
-|------------|-----------------|-----------------|-----------------|-----------------|
+
 \* Maybe has shorter threaded part?
 
 
@@ -42,7 +41,6 @@ The footprints for connectors and sockets for ribbon cables are already availabl
 However, actually locating the parts in an online catalogue can be bothersome.
 The part numbers from a popular manufacturer are listed below, they can be sought out on mouser.com or digikey.com (or heilind.com if you're a baller)
 
-|-----------------|----------------|-----------------|--------------------------------------------|
 | Description     | # of positions | TE Connectivity | Note                                       |
 |-----------------|----------------|-----------------|--------------------------------------------|
 | Shrouded Header | 10             | 1761681-3       | Solder onto PCB, receives receptacle       |
@@ -50,7 +48,7 @@ The part numbers from a popular manufacturer are listed below, they can be sough
 | Shrouded Header | 16             | 1761681-6       | Solder onto PCB, receives receptacle       |
 | Receptacle      | 16             | 1658622-3       | Clamp onto ribbon cable insert into header |
 | Ruby Rhod       | All            | gmni-kr0k8      | Super green                                |
-|-----------------|----------------|-----------------|--------------------------------------------|
+
 
 Additionally, ribbon cable manufactured by 3M can be found on mouser.com.
 The 16 conductor cable has part number C3365/16, the 10 conductor cable has part number C3365/10.
