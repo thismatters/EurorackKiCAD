@@ -13,7 +13,7 @@ Take note that Tayda also sells a line of Tayda branded potentiometers which _do
 
 Product availability is not guaranteed by this table; if you find an error here the author would accept a Pull Request about it.
 
-| Resistance | LOG -- Single   | LOG -- Double   | LOG -- Single   | LOG -- Double   |
+| Resistance | LOG (A) - Single| LOG (A) - Double| LIN (B) - Single| LIN (B) - Double|
 |------------|-----------------|-----------------|-----------------|-----------------|
 | 500        | N/A             | N/A             | A-3919          | N/A             |
 | 1K         | A-3932          | N/A             | A-5409          | N/A             |
