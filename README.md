@@ -8,6 +8,7 @@ Included are footprints for components sourced from Tayda Electronics; specifica
 The following are part numbers for the various resistances and configurations of pots.
 All are the 16mm body with 6.35mm smooth shaft; PCB mount (but not the crazy long pins).
 The shaft for these is 15mm long and where possible is split into an 8.5mm threaded portion and 6.5 smooth.
+These are all Alpha part number `RV16AF-41-15R1-XXXX`,
 
 Take note that Tayda also sells a line of Tayda branded potentiometers which _do not match_ the dimensions of the Alpha branded pot.
 
@@ -23,13 +24,11 @@ Product availability is not guaranteed by this table; if you find an error here 
 | 20K        | A-3936          | N/A             | A-3923          | N/A             |
 | 25K        | N/A             | N/A             | A-2491          | N/A             |
 | 50K        | A-4182          | A-1295          | A-2393, A-5401  | A-1292          |
-| 100K       | A-5407, A-2400  | A-1300          | A-2963*         | A-4194          |
+| 100K       | A-5407, A-2400  | A-1300          | A-2963          | A-4194          |
 | 200K       | A-3937          | N/A             | A-3925          | N/A             |
 | 250K       | A-2394          | N/A             | A-3203          | N/A             |
-| 500K       | A-2424          | A-1296          | A-2957*         | A-1293          |
+| 500K       | A-2424          | A-1296          | A-2957          | A-1293          |
 | 1M         | A-2425          | N/A             | A-2405          | A-1294          |
-
-\* Maybe has shorter threaded part?
 
 
 Tayda also sells a vertical PCB mounted switched TS jack that has roughly the same panel height as the pots: A-2566
@@ -41,13 +40,13 @@ The footprints for connectors and sockets for ribbon cables are already availabl
 However, actually locating the parts in an online catalogue can be bothersome.
 The part numbers from a popular manufacturer are listed below, they can be sought out on mouser.com or digikey.com (or heilind.com if you're a baller)
 
-| Description     | # of positions | TE Connectivity | Note                                       |
-|-----------------|----------------|-----------------|--------------------------------------------|
-| Shrouded Header | 10             | 1761681-3       | Solder onto PCB, receives receptacle       |
-| Receptacle      | 10             | 1658622-1       | Clamp onto ribbon cable insert into header |
-| Shrouded Header | 16             | 1761681-6       | Solder onto PCB, receives receptacle       |
-| Receptacle      | 16             | 1658622-3       | Clamp onto ribbon cable insert into header |
-| Ruby Rhod       | All            | gmni-kr0k8      | Super green                                |
+| Description     | # of positions | TE Connectivity |  Tayda | Note                                       |
+|-----------------|----------------|-----------------|--------|--------------------------------------------|
+| Shrouded Header | 10             | 1761681-3       | A-2939 | Solder onto PCB, receives receptacle       |
+| Receptacle      | 10             | 1658622-1       | A-3347 | Clamp onto ribbon cable insert into header |
+| Shrouded Header | 16             | 1761681-6       | A-2956 | Solder onto PCB, receives receptacle       |
+| Receptacle      | 16             | 1658622-3       | A-3586 | Clamp onto ribbon cable insert into header |
+| Ruby Rhod       | All            | gmni-kr0k8      | A-XXXX | Super green                                |
 
 
 Additionally, ribbon cable manufactured by 3M can be found on mouser.com.
