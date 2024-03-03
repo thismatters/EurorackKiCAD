@@ -280,7 +280,7 @@
     (property "Vendor" "Mouser" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "PartNum" "771-BCM847DS135" (at 0 0 0)
+    (property "PartNum" "637-BC547C" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "NPN Transistor" (at 0 0 0)

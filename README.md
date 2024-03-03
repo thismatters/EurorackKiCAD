@@ -53,3 +53,25 @@ Additionally, ribbon cable manufactured by 3M can be found on mouser.com.
 The 16 conductor cable has part number C3365/16, the 10 conductor cable has part number C3365/10.
 Both can be bought in rolls of 100 feet (deal with it).
 Some folks buy the 16 conductor cable and zip it down to 10 conductor when necessary.
+
+## Face layout
+
+For convenience, face layouts are done in KiCAD as well, and manufactured alongside the PCB. The labeling follows these standards.
+
+In all cases text is lowercase using the default KiCAD font.
+
+### Module Name
+
+The module name is at the bottom between the mounting screws. It is set in `size 7 4` with `thickness 0.45`.
+
+### Potentiometers
+
+Are labeled in `size 3 3` with `thickness 0.45`.
+
+### Audio Jacks (and switches)
+
+Are labeled in `size 2 2` with `thickness 0.3`. Outputs surrounded with a visual collar.
+
+### Maker Mark
+
+`thismatters/<module-name>/v<version-number>` will appear on front of face and back of PCB in `size 1 1` with `thickness 0.15`.
