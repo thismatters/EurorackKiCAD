@@ -75,3 +75,10 @@ Are labeled in `size 2 2` with `thickness 0.3`. Outputs surrounded with a visual
 ### Maker Mark
 
 `thismatters/<module-name>/v<version-number>` will appear on front of face and back of PCB in `size 1 1` with `thickness 0.15`.
+
+
+## Changes
+
+### 2024-12-06
+- Increased size of potentiometer alignment hole by 0.1mm
+- Added detent markers for MRK rotary switch hole footprint
