@@ -5,8 +5,8 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 85dbf43b-8376-4550-b956-8647faf83080)
   )
-  (fp_text value "Mech-AudioJack-Hole-decorated" (at 0 -10.3 unlocked) (layer "F.SilkS") hide
-      (effects (font (size 3 3) (thickness 0.45)))
+  (fp_text value "Mech-AudioJack-Hole-decorated" (at -0.025 -6.6 unlocked) (layer "F.SilkS")
+      (effects (font (size 2 2) (thickness 0.3)))
     (tstamp c2cbddac-7f63-4e22-9b8f-b777fc01c379)
   )
   (fp_text user "${REFERENCE}" (at 0 7.7 unlocked) (layer "F.Fab")

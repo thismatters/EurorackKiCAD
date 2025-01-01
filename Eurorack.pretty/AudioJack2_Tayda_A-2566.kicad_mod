@@ -33,7 +33,7 @@
   (pad "S" thru_hole oval (at 4.7 0.6) (size 2.25 2.7) (drill oval 1.45 1.9) (layers "*.Cu" "*.Mask") (tstamp 86ae88d1-06d7-4155-9d49-7252129c8ec7))
   (pad "T" thru_hole oval (at 0 -4.8) (size 3.5 1.5) (drill oval 2.7 0.7) (layers "*.Cu" "*.Mask") (tstamp 8465eff2-332f-47f6-b1ca-2eb7d5ef2a08))
   (pad "TN" thru_hole oval (at 0 3.3) (size 3.5 1.5) (drill oval 2.7 0.7) (layers "*.Cu" "*.Mask") (tstamp b3943614-e16f-41f3-aea0-8f26302072af))
-  (model "/home/pstiverson/Projects/AR-808/hardware/EurorackKiCAD/Eurorack.pretty/models3d/A-2566.wrl"
+  (model "./models3d/A-2566.wrl"
     (offset (xyz 0 -0.15 11.5))
     (scale (xyz 0.385 0.385 0.385))
     (rotate (xyz 0 0 0))

@@ -79,6 +79,16 @@ Are labeled in `size 2 2` with `thickness 0.3`. Outputs surrounded with a visual
 
 ## Changes
 
+### 2025-01-01
+- footprint for box capacitor mounted sideways
+- fixing Alpha pot footprint so that screenprint doesn't intersect pad
+- bigger symbol for balanced modulator
+- Faceplate footprints updated to have more consistent labelling
+- Fixes for potentiometer alignment hole (annular size)
+- Fixed reference to 3d model for jack
+- Added LED hole without bezel
+
 ### 2024-12-06
 - Increased size of potentiometer alignment hole by 0.1mm
 - Added detent markers for MRK rotary switch hole footprint
+
