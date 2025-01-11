@@ -79,6 +79,10 @@ Are labeled in `size 2 2` with `thickness 0.3`. Outputs surrounded with a visual
 
 ## Changes
 
+### 2025-01-11
+- Added symbol for 16 pin box header (for TuringMachine expanders)
+- Added footprints for 1M series SPDT switches in both through hole and solder lug configurations.
+
 ### 2025-01-01
 - footprint for box capacitor mounted sideways
 - fixing Alpha pot footprint so that screenprint doesn't intersect pad
