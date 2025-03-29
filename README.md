@@ -79,6 +79,10 @@ Are labeled in `size 2 2` with `thickness 0.3`. Outputs surrounded with a visual
 
 ## Changes
 
+### 2025-03-29
+- Added footprints for mechanical affixments: screws and standoffs
+- Fixed DAC008 pinouts for SOIC package
+
 ### 2025-01-11
 - Added symbol for 16 pin box header (for TuringMachine expanders)
 - Added footprints for 1M series SPDT switches in both through hole and solder lug configurations.
